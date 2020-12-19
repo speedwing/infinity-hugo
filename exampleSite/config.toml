@@ -134,6 +134,19 @@ bg          = "images/call-to-action.jpg"
 title       = "Subscribe to our mailing list"
 subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 
+[params.faq]
+enable      = true
+title       = "Frequently Asked Questions"
+subtitle    = "You asked, we replied"
+
+[[params.faq.faqItem]]
+question    = "Why should I buy your product?"
+answer      = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+
+[[params.faq.faqItem]]
+question    = "Is delivery price included?"
+answer      = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+
 [params.contact]
 enable      = true
 title       = "Get In Touch"
