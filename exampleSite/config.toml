@@ -1,7 +1,6 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
 title = "Infinity | Comming Soon Hugo Template By Themefisher"
-description = ""
 theme = "infinity-hugo"
 removePathAccents = true
 
@@ -9,6 +8,7 @@ removePathAccents = true
 
 # HTML before the closing </head>
 [params]
+Description = ""
 customHead = ""
 additionalFooter = ""
 
